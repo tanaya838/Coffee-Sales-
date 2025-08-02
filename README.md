@@ -44,7 +44,7 @@ Key Questions :
 
 This Coffee Sales Dashboard is designed to support business decision-making by providing a comprehensive view of sales performance across different time periods, locations, and product categories. It helps the business track overall revenue and identify high-performing stores, products, and time slots, allowing for more informed resource allocation and sales strategies. By analyzing customer purchasing patterns by day and hour, the dashboard enables optimization of staffing and operational efficiency. Additionally, insights into average quantity ordered and product category performance assist in improving inventory planning and product offerings. With interactive filters for month and weekday selection, this dashboard empowers managers to explore trends, compare metrics, and take proactive steps to boost revenue, enhance customer experience, and drive growth through data-driven decisions.
 
-![Alt text] : (https://github.com/tanaya838/Coffee-Sales-/blob/main/Coffee%20Sales.png)
+[Dashboard Preview] : (https://github.com/tanaya838/Coffee-Sales-/blob/main/Coffee%20Sales.png)
 
 
 
